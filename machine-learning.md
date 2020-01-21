@@ -13,5 +13,5 @@
 ##### K-Nearest Neighbor
 ##### Naive Bayes
 ##### Support Vector Machine 
-* [Introduction and Principle] (https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
+* [Introduction and Principle](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
 ##### Decision Tree
