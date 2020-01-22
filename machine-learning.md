@@ -1,7 +1,11 @@
+# Finance Analysis
+* [basic concepts](https://www.datacamp.com/community/tutorials/finance-python-trading#basics)
+
 # Machine Learing
 ## 1. Prepare data
 ### 1.2 Feature Selection 
 ## 2. Machine learning algorithm
+* [Machine Learning 101: Brief introduction Series articles in Medium](https://medium.com/machine-learning-101)
 ### 2.1 Supervised learning
 #### 2.1.1 Regression
 #### 2.1.2 Classification
